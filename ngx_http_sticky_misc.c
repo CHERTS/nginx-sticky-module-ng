@@ -22,7 +22,7 @@
 #define MD5_DIGEST_LENGTH 16
 
 /* fix for new stable version 1.14.2 */
-#define SHA_CBLOCK 64
+//#define SHA_CBLOCK 64
 #define SHA_DIGEST_LENGTH 20
 
 // /* - bugfix for compiling on sles11 - needs gcc4.6 or later*/
